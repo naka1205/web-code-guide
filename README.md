@@ -5,3 +5,4 @@
 * [VUE](VUE.md) 编码规范
 * [CODE](CODE.md) 业务代码参考
 * [JAVASCRIPT](JAVASCRIPT.md) 执行机制
+* [MORE](MORE.md) 更多参考资料
